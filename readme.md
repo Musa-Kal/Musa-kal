@@ -1,3 +1,3 @@
 Hi! 🙋
 
-<img src="assets\loading.gif" alt="loading..." width="50" height="50">
+<img src="assets\loading_then_bye.gif" alt="loading...">
